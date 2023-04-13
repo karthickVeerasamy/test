@@ -4,3 +4,4 @@ These are the list of bikes:
 3.Duke 350
 4.R15
 5.CT100
+6.Pulsar 200RS
