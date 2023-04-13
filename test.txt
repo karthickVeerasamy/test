@@ -1,0 +1,6 @@
+These are the list of bikes:
+1.Kawasaki ninja 300
+2.Triumph rocket
+3.Duke 350
+4.R15
+5.CT100
